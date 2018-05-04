@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Users\\Usuario\\AndroidStudioProjects\\C10_CustomAlertDialogExample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "C:\\Users\\Usuario\\AndroidStudioProjects\\C10_CustomAlertDialogExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 61,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 60,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "C:\\Users\\Usuario\\AndroidStudioProjects\\C10_CustomAlertDialogExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 60,
+                        "endOffset": 115
+                    }
+                }
+            }
+        ]
+    }
+]
